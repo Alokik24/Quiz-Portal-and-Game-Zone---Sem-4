@@ -1,0 +1,7 @@
+Hello, this is a file analyzer system.
+To use this system, you need to have a file with a specific format.
+The file should be in the following format:
+Name: [Name of the file]
+Size: [Size of the file]
+Type: [Type of the file]
+
