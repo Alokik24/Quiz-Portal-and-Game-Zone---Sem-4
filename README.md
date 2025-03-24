@@ -1,1 +1,1 @@
-Chrck the report for details
+Check the report for details
